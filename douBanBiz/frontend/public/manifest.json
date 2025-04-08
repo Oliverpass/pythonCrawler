@@ -1,0 +1,16 @@
+{
+  "short_name": "电影数据分析",
+  "name": "豆瓣电影Top250数据分析",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
+ 
